@@ -237,3 +237,6 @@ This repository serves as the official landing page for Sam & Max: the Mole, the
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Sam & Max: the Mole, the Mob and the Meatball today!**
+
+---
+**Last updated:** 2026-09-11 22:20:17 UTC
