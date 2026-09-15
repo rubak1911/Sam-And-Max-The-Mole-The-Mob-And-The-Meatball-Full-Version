@@ -239,4 +239,4 @@ This repository serves as the official landing page for Sam & Max: the Mole, the
 **Get the most recent version of Sam & Max: the Mole, the Mob and the Meatball today!**
 
 ---
-**Last updated:** 2026-09-15 08:08:27 UTC
+**Last updated:** 2026-09-15 13:57:45 UTC
